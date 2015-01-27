@@ -7,7 +7,6 @@ public class Hello {
 		System.out.println("Hello F12");
 		System.out.println("Done");
 
-
 	}
 
 }
