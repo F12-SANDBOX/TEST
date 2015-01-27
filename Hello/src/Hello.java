@@ -6,9 +6,6 @@ public class Hello {
 
 		System.out.println("Hello F12 - New");
 
-		System.out.print("New line added");
-
-		System.out.println("Hello World 123!!");
 
 
 	}
